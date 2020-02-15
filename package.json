@@ -1,0 +1,19 @@
+{
+  "name": "proyectofisica2corte1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisoteko/Proyecto-Fisica.git"
+  },
+  "author": "@luisoteko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisoteko/Proyecto-Fisica/issues"
+  },
+  "homepage": "https://github.com/luisoteko/Proyecto-Fisica#readme"
+}
